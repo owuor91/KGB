@@ -1,9 +1,10 @@
-require_relative 'guild_master'
+require_relative 'guild_master.rb'
 
 class ArmedForces < GuildMaster
 
+
 end
 
-p ian = ArmedForces.new("Ian","AF")
+p wewe = ArmedForces.new("Bosire","AF")
 
-p ian.kill
+p wewe.disguise

@@ -1,6 +1,6 @@
 module Skills
-	def kill
-		"You are dead!"
+	def kill(@name)
+		"You have killed #{@name}"
 	end
 end
 
