@@ -22,4 +22,4 @@ end
 
 p faith = GuildMaster.new("Faith", "GM")
 
-p faith.kill("Ian")
+p faith.kill
